@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![hyuntae384's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuntae384)](https://github.com/hyuntae384/github-readme-stats)
+
 <!--
 **hyuntae384/hyuntae384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
