@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=white">
   <img src="https://img.shields.io/badge/ganache-FECC00?style=for-the-badge&logo=ganache&logoColor=white">
   <img src="https://img.shields.io/badge/truffle-6C595C?style=for-the-badge&logo=truffle&logoColor=white">
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
